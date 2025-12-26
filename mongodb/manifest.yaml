@@ -26,4 +26,4 @@ spec:
     spec:
       containers:
       - name: mongodb
-        image: khajit03/mongodb
+        image: khajit03/mongodb:v1
